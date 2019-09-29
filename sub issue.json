@@ -2,16 +2,13 @@
     "map": {
         "@_version": "freeplane 1.7.0",
         "node": {
-            "@_TEXT": "Mind Maps",
+            "@_TEXT": "sub issue",
             "@_FOLDED": false,
-            "@_ID": "ID_1894420573",
-            "@_CREATED": 1569784690681,
-            "@_MODIFIED": 1569784729603,
-            "@_LINK": "index.html",
+            "@_ID": "ID_482652535",
+            "@_CREATED": 1569784821224,
+            "@_MODIFIED": 1569784840464,
+            "@_LINK": "index.mm",
             "@_STYLE": "oval",
-            "icon": {
-                "@_BUILTIN": "calendar"
-            },
             "font": {
                 "@_SIZE": 18
             },
@@ -190,113 +187,20 @@
                 },
                 {
                     "@_NAME": "AutomaticEdgeColor",
-                    "@_COUNTER": 9,
+                    "@_COUNTER": 2,
                     "@_RULE": "ON_BRANCH_CREATION"
                 }
             ],
-            "node": [
-                {
-                    "@_TEXT": "todo",
-                    "@_POSITION": "right",
-                    "@_ID": "ID_359991860",
-                    "@_CREATED": 1569784692611,
-                    "@_MODIFIED": 1569784692622,
-                    "icon": {
-                        "@_BUILTIN": "idea"
-                    },
-                    "edge": {
-                        "@_COLOR": "#ff0000"
-                    }
-                },
-                {
-                    "@_TEXT": "next",
-                    "@_POSITION": "right",
-                    "@_ID": "ID_1857399077",
-                    "@_CREATED": 1569784692623,
-                    "@_MODIFIED": 1569784692631,
-                    "icon": {
-                        "@_BUILTIN": "go"
-                    },
-                    "edge": {
-                        "@_COLOR": "#0000ff"
-                    }
-                },
-                {
-                    "@_TEXT": "doing",
-                    "@_POSITION": "right",
-                    "@_ID": "ID_695904482",
-                    "@_CREATED": 1569784692632,
-                    "@_MODIFIED": 1569784692637,
-                    "icon": {
-                        "@_BUILTIN": "bookmark"
-                    },
-                    "edge": {
-                        "@_COLOR": "#00ff00"
-                    }
-                },
-                {
-                    "@_TEXT": "sub issue",
-                    "@_POSITION": "right",
-                    "@_ID": "ID_902002559",
-                    "@_CREATED": 1569784813380,
-                    "@_MODIFIED": 1569784818543,
-                    "edge": {
-                        "@_COLOR": "#7c007c"
-                    }
-                },
-                {
-                    "@_TEXT": "done",
-                    "@_POSITION": "left",
-                    "@_ID": "ID_433819245",
-                    "@_CREATED": 1569784692637,
-                    "@_MODIFIED": 1569784692643,
-                    "icon": {
-                        "@_BUILTIN": "button_ok"
-                    },
-                    "edge": {
-                        "@_COLOR": "#ff00ff"
-                    }
-                },
-                {
-                    "@_TEXT": "later",
-                    "@_POSITION": "left",
-                    "@_ID": "ID_848414105",
-                    "@_CREATED": 1569784692644,
-                    "@_MODIFIED": 1569784692646,
-                    "icon": {
-                        "@_BUILTIN": "prepare"
-                    },
-                    "edge": {
-                        "@_COLOR": "#00ffff"
-                    }
-                },
-                {
-                    "@_TEXT": "waiting",
-                    "@_POSITION": "left",
-                    "@_ID": "ID_1042692083",
-                    "@_CREATED": 1569784692647,
-                    "@_MODIFIED": 1569784692649,
-                    "icon": {
-                        "@_BUILTIN": "hourglass"
-                    },
-                    "edge": {
-                        "@_COLOR": "#7c0000"
-                    }
-                },
-                {
-                    "@_TEXT": "links",
-                    "@_POSITION": "left",
-                    "@_ID": "ID_1823870673",
-                    "@_CREATED": 1569784692650,
-                    "@_MODIFIED": 1569784692655,
-                    "icon": {
-                        "@_BUILTIN": "attach"
-                    },
-                    "edge": {
-                        "@_COLOR": "#00007c"
-                    }
+            "node": {
+                "@_TEXT": "todo",
+                "@_POSITION": "right",
+                "@_ID": "ID_282355099",
+                "@_CREATED": 1569784843105,
+                "@_MODIFIED": 1569784845284,
+                "edge": {
+                    "@_COLOR": "#ff0000"
                 }
-            ]
+            }
         }
     }
 }

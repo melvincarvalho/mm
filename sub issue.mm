@@ -1,7 +1,6 @@
 <map version="freeplane 1.7.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node TEXT="Mind Maps" FOLDED="false" ID="ID_1894420573" CREATED="1569784690681" MODIFIED="1569784729603" LINK="index.html" STYLE="oval">
-<icon BUILTIN="calendar"/>
+<node TEXT="sub issue" FOLDED="false" ID="ID_482652535" CREATED="1569784821224" MODIFIED="1569784840464" LINK="index.mm" STYLE="oval">
 <font SIZE="18"/>
 <hook NAME="MapStyle">
     <properties edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" fit_to_viewport="false"/>
@@ -64,37 +63,9 @@
 </stylenode>
 </map_styles>
 </hook>
-<hook NAME="AutomaticEdgeColor" COUNTER="9" RULE="ON_BRANCH_CREATION"/>
-<node TEXT="todo" POSITION="right" ID="ID_359991860" CREATED="1569784692611" MODIFIED="1569784692622">
-<icon BUILTIN="idea"/>
+<hook NAME="AutomaticEdgeColor" COUNTER="2" RULE="ON_BRANCH_CREATION"/>
+<node TEXT="todo" POSITION="right" ID="ID_282355099" CREATED="1569784843105" MODIFIED="1569784845284">
 <edge COLOR="#ff0000"/>
-</node>
-<node TEXT="next" POSITION="right" ID="ID_1857399077" CREATED="1569784692623" MODIFIED="1569784692631">
-<icon BUILTIN="go"/>
-<edge COLOR="#0000ff"/>
-</node>
-<node TEXT="doing" POSITION="right" ID="ID_695904482" CREATED="1569784692632" MODIFIED="1569784692637">
-<icon BUILTIN="bookmark"/>
-<edge COLOR="#00ff00"/>
-</node>
-<node TEXT="sub issue" POSITION="right" ID="ID_902002559" CREATED="1569784813380" MODIFIED="1569784818543">
-<edge COLOR="#7c007c"/>
-</node>
-<node TEXT="done" POSITION="left" ID="ID_433819245" CREATED="1569784692637" MODIFIED="1569784692643">
-<icon BUILTIN="button_ok"/>
-<edge COLOR="#ff00ff"/>
-</node>
-<node TEXT="later" POSITION="left" ID="ID_848414105" CREATED="1569784692644" MODIFIED="1569784692646">
-<icon BUILTIN="prepare"/>
-<edge COLOR="#00ffff"/>
-</node>
-<node TEXT="waiting" POSITION="left" ID="ID_1042692083" CREATED="1569784692647" MODIFIED="1569784692649">
-<icon BUILTIN="hourglass"/>
-<edge COLOR="#7c0000"/>
-</node>
-<node TEXT="links" POSITION="left" ID="ID_1823870673" CREATED="1569784692650" MODIFIED="1569784692655">
-<icon BUILTIN="attach"/>
-<edge COLOR="#00007c"/>
 </node>
 </node>
 </map>

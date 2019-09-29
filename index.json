@@ -190,7 +190,7 @@
                 },
                 {
                     "@_NAME": "AutomaticEdgeColor",
-                    "@_COUNTER": 16,
+                    "@_COUNTER": 17,
                     "@_RULE": "ON_BRANCH_CREATION"
                 }
             ],

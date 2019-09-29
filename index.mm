@@ -64,7 +64,7 @@
 </stylenode>
 </map_styles>
 </hook>
-<hook NAME="AutomaticEdgeColor" COUNTER="16" RULE="ON_BRANCH_CREATION"/>
+<hook NAME="AutomaticEdgeColor" COUNTER="17" RULE="ON_BRANCH_CREATION"/>
 <node TEXT="todo" POSITION="right" ID="ID_359991860" CREATED="1569784692611" MODIFIED="1569784692622">
 <icon BUILTIN="idea"/>
 <edge COLOR="#ff0000"/>

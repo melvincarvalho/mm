@@ -98,6 +98,9 @@
 <node TEXT="links" POSITION="left" ID="ID_1823870673" CREATED="1569784692650" MODIFIED="1569784692655">
 <icon BUILTIN="attach"/>
 <edge COLOR="#00007c"/>
+<node TEXT="json" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_723233825" CREATED="1569787575618" MODIFIED="1569787602938" LINK="index.json">
+<node TEXT="try the addon" ID="ID_136301124" CREATED="1569787607065" MODIFIED="1569787660790" LINK="https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa"/>
+</node>
 </node>
 </node>
 </map>

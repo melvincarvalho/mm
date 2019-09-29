@@ -307,6 +307,21 @@
                     },
                     "edge": {
                         "@_COLOR": "#00007c"
+                    },
+                    "node": {
+                        "@_TEXT": "json",
+                        "@_LOCALIZED_STYLE_REF": "AutomaticLayout.level,2",
+                        "@_ID": "ID_723233825",
+                        "@_CREATED": 1569787575618,
+                        "@_MODIFIED": 1569787602938,
+                        "@_LINK": "index.json",
+                        "node": {
+                            "@_TEXT": "try the addon",
+                            "@_ID": "ID_136301124",
+                            "@_CREATED": 1569787607065,
+                            "@_MODIFIED": 1569787660790,
+                            "@_LINK": "https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa"
+                        }
                     }
                 }
             ]

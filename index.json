@@ -190,7 +190,7 @@
                 },
                 {
                     "@_NAME": "AutomaticEdgeColor",
-                    "@_COUNTER": 20,
+                    "@_COUNTER": 21,
                     "@_RULE": "ON_BRANCH_CREATION"
                 }
             ],
@@ -210,10 +210,11 @@
                 },
                 {
                     "@_TEXT": "just a leopard",
+                    "@_LOCALIZED_STYLE_REF": "AutomaticLayout.level,2",
                     "@_POSITION": "right",
                     "@_ID": "ID_1857399077",
                     "@_CREATED": 1569784692623,
-                    "@_MODIFIED": 1569786540761,
+                    "@_MODIFIED": 1569787418794,
                     "icon": {
                         "@_BUILTIN": "go"
                     },

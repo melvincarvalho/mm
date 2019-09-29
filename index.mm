@@ -64,12 +64,12 @@
 </stylenode>
 </map_styles>
 </hook>
-<hook NAME="AutomaticEdgeColor" COUNTER="20" RULE="ON_BRANCH_CREATION"/>
+<hook NAME="AutomaticEdgeColor" COUNTER="21" RULE="ON_BRANCH_CREATION"/>
 <node TEXT="todo" POSITION="right" ID="ID_359991860" CREATED="1569784692611" MODIFIED="1569784692622">
 <icon BUILTIN="idea"/>
 <edge COLOR="#ff0000"/>
 </node>
-<node TEXT="just a leopard" POSITION="right" ID="ID_1857399077" CREATED="1569784692623" MODIFIED="1569786540761">
+<node TEXT="just a leopard" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" POSITION="right" ID="ID_1857399077" CREATED="1569784692623" MODIFIED="1569787418794">
 <icon BUILTIN="go"/>
 <edge COLOR="#0000ff"/>
 </node>

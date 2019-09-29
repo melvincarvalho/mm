@@ -64,7 +64,7 @@
 </stylenode>
 </map_styles>
 </hook>
-<hook NAME="AutomaticEdgeColor" COUNTER="9" RULE="ON_BRANCH_CREATION"/>
+<hook NAME="AutomaticEdgeColor" COUNTER="13" RULE="ON_BRANCH_CREATION"/>
 <node TEXT="todo" POSITION="right" ID="ID_359991860" CREATED="1569784692611" MODIFIED="1569784692622">
 <icon BUILTIN="idea"/>
 <edge COLOR="#ff0000"/>
@@ -77,7 +77,7 @@
 <icon BUILTIN="bookmark"/>
 <edge COLOR="#00ff00"/>
 </node>
-<node TEXT="sub issue" POSITION="right" ID="ID_902002559" CREATED="1569784813380" MODIFIED="1569784818543">
+<node TEXT="sub issue" POSITION="right" ID="ID_902002559" CREATED="1569784813380" MODIFIED="1569784923631" LINK="sub%20issue.mm">
 <edge COLOR="#7c007c"/>
 </node>
 <node TEXT="done" POSITION="left" ID="ID_433819245" CREATED="1569784692637" MODIFIED="1569784692643">

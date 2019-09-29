@@ -190,7 +190,7 @@
                 },
                 {
                     "@_NAME": "AutomaticEdgeColor",
-                    "@_COUNTER": 9,
+                    "@_COUNTER": 13,
                     "@_RULE": "ON_BRANCH_CREATION"
                 }
             ],
@@ -239,7 +239,8 @@
                     "@_POSITION": "right",
                     "@_ID": "ID_902002559",
                     "@_CREATED": 1569784813380,
-                    "@_MODIFIED": 1569784818543,
+                    "@_MODIFIED": 1569784923631,
+                    "@_LINK": "sub%20issue.mm",
                     "edge": {
                         "@_COLOR": "#7c007c"
                     }

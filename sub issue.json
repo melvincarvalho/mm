@@ -187,7 +187,7 @@
                 },
                 {
                     "@_NAME": "AutomaticEdgeColor",
-                    "@_COUNTER": 2,
+                    "@_COUNTER": 3,
                     "@_RULE": "ON_BRANCH_CREATION"
                 }
             ],
@@ -199,6 +199,12 @@
                 "@_MODIFIED": 1569784845284,
                 "edge": {
                     "@_COLOR": "#ff0000"
+                },
+                "node": {
+                    "@_TEXT": "make rectangles clickable",
+                    "@_ID": "ID_699967637",
+                    "@_CREATED": 1569784984002,
+                    "@_MODIFIED": 1569784993605
                 }
             }
         }

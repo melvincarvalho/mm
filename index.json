@@ -190,7 +190,7 @@
                 },
                 {
                     "@_NAME": "AutomaticEdgeColor",
-                    "@_COUNTER": 17,
+                    "@_COUNTER": 18,
                     "@_RULE": "ON_BRANCH_CREATION"
                 }
             ],
@@ -222,16 +222,27 @@
                     }
                 },
                 {
-                    "@_TEXT": "doing",
+                    "@_TEXT": "leopard",
                     "@_POSITION": "right",
                     "@_ID": "ID_695904482",
                     "@_CREATED": 1569784692632,
-                    "@_MODIFIED": 1569784692637,
+                    "@_MODIFIED": 1569786119597,
                     "icon": {
                         "@_BUILTIN": "bookmark"
                     },
                     "edge": {
                         "@_COLOR": "#00ff00"
+                    },
+                    "node": {
+                        "@_TEXT": "png_2878995268067859884.png",
+                        "@_ID": "ID_1672181910",
+                        "@_CREATED": 1569786110740,
+                        "@_MODIFIED": 1569786110740,
+                        "hook": {
+                            "@_URI": "index_files/png_2878995268067859884.png",
+                            "@_SIZE": 0.6,
+                            "@_NAME": "ExternalObject"
+                        }
                     }
                 },
                 {
@@ -243,6 +254,16 @@
                     "@_LINK": "sub%20issue.mm",
                     "edge": {
                         "@_COLOR": "#7c007c"
+                    }
+                },
+                {
+                    "@_TEXT": "a",
+                    "@_POSITION": "right",
+                    "@_ID": "ID_382471458",
+                    "@_CREATED": 1569786133042,
+                    "@_MODIFIED": 1569786133907,
+                    "edge": {
+                        "@_COLOR": "#00007c"
                     }
                 },
                 {

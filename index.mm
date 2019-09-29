@@ -64,7 +64,7 @@
 </stylenode>
 </map_styles>
 </hook>
-<hook NAME="AutomaticEdgeColor" COUNTER="17" RULE="ON_BRANCH_CREATION"/>
+<hook NAME="AutomaticEdgeColor" COUNTER="18" RULE="ON_BRANCH_CREATION"/>
 <node TEXT="todo" POSITION="right" ID="ID_359991860" CREATED="1569784692611" MODIFIED="1569784692622">
 <icon BUILTIN="idea"/>
 <edge COLOR="#ff0000"/>
@@ -73,9 +73,12 @@
 <icon BUILTIN="go"/>
 <edge COLOR="#0000ff"/>
 </node>
-<node TEXT="doing" POSITION="right" ID="ID_695904482" CREATED="1569784692632" MODIFIED="1569784692637">
+<node TEXT="leopard" POSITION="right" ID="ID_695904482" CREATED="1569784692632" MODIFIED="1569786119597">
 <icon BUILTIN="bookmark"/>
 <edge COLOR="#00ff00"/>
+<node TEXT="png_2878995268067859884.png" ID="ID_1672181910" CREATED="1569786110740" MODIFIED="1569786110740">
+<hook URI="index_files/png_2878995268067859884.png" SIZE="0.6" NAME="ExternalObject"/>
+</node>
 </node>
 <node TEXT="sub issue" POSITION="right" ID="ID_902002559" CREATED="1569784813380" MODIFIED="1569784923631" LINK="sub%20issue.mm">
 <edge COLOR="#7c007c"/>

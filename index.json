@@ -190,7 +190,7 @@
                 },
                 {
                     "@_NAME": "AutomaticEdgeColor",
-                    "@_COUNTER": 19,
+                    "@_COUNTER": 20,
                     "@_RULE": "ON_BRANCH_CREATION"
                 }
             ],
@@ -209,11 +209,11 @@
                     }
                 },
                 {
-                    "@_TEXT": "next",
+                    "@_TEXT": "just a leopard",
                     "@_POSITION": "right",
                     "@_ID": "ID_1857399077",
                     "@_CREATED": 1569784692623,
-                    "@_MODIFIED": 1569784692631,
+                    "@_MODIFIED": 1569786540761,
                     "icon": {
                         "@_BUILTIN": "go"
                     },
@@ -222,11 +222,11 @@
                     }
                 },
                 {
-                    "@_TEXT": "leopard",
+                    "@_TEXT": "",
                     "@_POSITION": "right",
                     "@_ID": "ID_695904482",
                     "@_CREATED": 1569784692632,
-                    "@_MODIFIED": 1569786119597,
+                    "@_MODIFIED": 1569786534816,
                     "icon": {
                         "@_BUILTIN": "bookmark"
                     },

@@ -1,6 +1,6 @@
 <#ID_359991860> <urn:string:@_TEXT> """todo""" .
-<#ID_1857399077> <urn:string:@_TEXT> """next""" .
-<#ID_695904482> <urn:string:@_TEXT> """leopard""" .
+<#ID_1857399077> <urn:string:@_TEXT> """just a leopard""" .
+<#ID_695904482> <urn:string:@_TEXT> """""" .
 <#ID_902002559> <urn:string:@_TEXT> """go to sub issue""" .
 <#ID_433819245> <urn:string:@_TEXT> """done""" .
 <#ID_848414105> <urn:string:@_TEXT> """later""" .

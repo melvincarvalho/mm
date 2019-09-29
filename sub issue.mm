@@ -63,10 +63,13 @@
 </stylenode>
 </map_styles>
 </hook>
-<hook NAME="AutomaticEdgeColor" COUNTER="3" RULE="ON_BRANCH_CREATION"/>
+<hook NAME="AutomaticEdgeColor" COUNTER="5" RULE="ON_BRANCH_CREATION"/>
 <node TEXT="todo" POSITION="right" ID="ID_282355099" CREATED="1569784843105" MODIFIED="1569784845284">
 <edge COLOR="#ff0000"/>
 <node TEXT="make rectangles clickable" ID="ID_699967637" CREATED="1569784984002" MODIFIED="1569784993605"/>
+</node>
+<node TEXT="back" POSITION="right" ID="ID_11475527" CREATED="1569786234931" MODIFIED="1569786244187" LINK="index.mm">
+<edge COLOR="#ff00ff"/>
 </node>
 </node>
 </map>

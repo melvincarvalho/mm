@@ -246,24 +246,14 @@
                     }
                 },
                 {
-                    "@_TEXT": "sub issue",
+                    "@_TEXT": "go to sub issue",
                     "@_POSITION": "right",
                     "@_ID": "ID_902002559",
                     "@_CREATED": 1569784813380,
-                    "@_MODIFIED": 1569784923631,
+                    "@_MODIFIED": 1569786280339,
                     "@_LINK": "sub%20issue.mm",
                     "edge": {
                         "@_COLOR": "#7c007c"
-                    }
-                },
-                {
-                    "@_TEXT": "a",
-                    "@_POSITION": "right",
-                    "@_ID": "ID_382471458",
-                    "@_CREATED": 1569786133042,
-                    "@_MODIFIED": 1569786133907,
-                    "edge": {
-                        "@_COLOR": "#00007c"
                     }
                 },
                 {

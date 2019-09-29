@@ -187,26 +187,39 @@
                 },
                 {
                     "@_NAME": "AutomaticEdgeColor",
-                    "@_COUNTER": 3,
+                    "@_COUNTER": 5,
                     "@_RULE": "ON_BRANCH_CREATION"
                 }
             ],
-            "node": {
-                "@_TEXT": "todo",
-                "@_POSITION": "right",
-                "@_ID": "ID_282355099",
-                "@_CREATED": 1569784843105,
-                "@_MODIFIED": 1569784845284,
-                "edge": {
-                    "@_COLOR": "#ff0000"
+            "node": [
+                {
+                    "@_TEXT": "todo",
+                    "@_POSITION": "right",
+                    "@_ID": "ID_282355099",
+                    "@_CREATED": 1569784843105,
+                    "@_MODIFIED": 1569784845284,
+                    "edge": {
+                        "@_COLOR": "#ff0000"
+                    },
+                    "node": {
+                        "@_TEXT": "make rectangles clickable",
+                        "@_ID": "ID_699967637",
+                        "@_CREATED": 1569784984002,
+                        "@_MODIFIED": 1569784993605
+                    }
                 },
-                "node": {
-                    "@_TEXT": "make rectangles clickable",
-                    "@_ID": "ID_699967637",
-                    "@_CREATED": 1569784984002,
-                    "@_MODIFIED": 1569784993605
+                {
+                    "@_TEXT": "back",
+                    "@_POSITION": "right",
+                    "@_ID": "ID_11475527",
+                    "@_CREATED": 1569786234931,
+                    "@_MODIFIED": 1569786244187,
+                    "@_LINK": "index.mm",
+                    "edge": {
+                        "@_COLOR": "#ff00ff"
+                    }
                 }
-            }
+            ]
         }
     }
 }

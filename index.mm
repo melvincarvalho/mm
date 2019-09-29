@@ -80,7 +80,7 @@
 <hook URI="index_files/png_2878995268067859884.png" SIZE="0.6" NAME="ExternalObject"/>
 </node>
 </node>
-<node TEXT="sub issue" POSITION="right" ID="ID_902002559" CREATED="1569784813380" MODIFIED="1569784923631" LINK="sub%20issue.mm">
+<node TEXT="go to sub issue" POSITION="right" ID="ID_902002559" CREATED="1569784813380" MODIFIED="1569786280339" LINK="sub%20issue.mm">
 <edge COLOR="#7c007c"/>
 </node>
 <node TEXT="done" POSITION="left" ID="ID_433819245" CREATED="1569784692637" MODIFIED="1569784692643">
